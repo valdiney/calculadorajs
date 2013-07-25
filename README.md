@@ -15,4 +15,11 @@ Em qualquer linguagem computacional é possível fazer uma calculadora, até mes
 
 Estudantes já experientes não vão perder tempo fazendo uma calculadora, mas podes acreditar que lá no fundo eles nunca esqueceram a satisfação, alegria de terem feito suas primeiras calculadoras.
 
-E então você já fez a sua? Pare de ficar se jogando pra baixo com frases do tipo: Isso ainda é muito difícil… Comece a tentar fazer a sua agora mesmo! Mesmo que quebre a cabeça no decorrer do feito, no final terás vontade de mostrar para todo mundo e não fique triste em vê a cara das pessoas que não entendem patavina de computação te achando medíocre por ter feito uma calculadora! Perdoa senhor eles não entendem Risos…
+<h2>E então você já fez a sua? Pare de ficar se 
+jogando pra baixo com frases do tipo: Isso ainda 
+é muito difícil… Comece a tentar fazer a sua agora 
+mesmo! Mesmo que quebre a cabeça no decorrer do feito, 
+no final terás vontade de mostrar para todo mundo e não 
+fique triste em vê a cara das pessoas que não entendem 
+patavina de computação te achando medíocre por ter feito 
+uma calculadora! Perdoa senhor eles não entendem Risos…</h2>
