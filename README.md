@@ -7,11 +7,11 @@ Cá entre nós… Todos os estudantes de computação já sonharam ou ainda sonh
 
 Em qualquer linguagem computacional é possível fazer uma calculadora, até mesmo em uma Pseudolinguagem, na verdade a linguagem não importa e sim os passos tomados para que a calculadora funcione bem. No meu exemplo eu utilizei um conjunto de tecnologias que regem o âmbito web!
 
-Html: Linguagem de marcação para estruturar os documentos em um navegador.
+<b>Html:</b> Linguagem de marcação para estruturar os documentos em um navegador.
 
-Css: Linguagem de estilo para compor a interface do programa.
+<b> Css:</b> Linguagem de estilo para compor a interface do programa.
 
-Javascript: Linguagem aritmética para compor o algoritmo funcional da calculadora
+<b> Javascript:</b>  Linguagem aritmética para compor o algoritmo funcional da calculadora
 
 Estudantes já experientes não vão perder tempo fazendo uma calculadora, mas podes acreditar que lá no fundo eles nunca esqueceram a satisfação, alegria de terem feito suas primeiras calculadoras.
 
