@@ -25,7 +25,7 @@ patavina de computação te achando medíocre por ter feito
 uma calculadora! Perdoa senhor eles não entendem Risos…</b>
 
 <h1>Exemplo de uma das funções disponível no código fonte da nossa calculadora:</h1>
-
+```javascript
 <pre>
 var raiz_quadrada = document.getElementById('raiz_quadrada').onclick = function(){
 var visor = document.getElementById('visor').value;
