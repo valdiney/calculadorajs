@@ -23,3 +23,17 @@ no final terás vontade de mostrar para todo mundo e não
 fique triste em vê a cara das pessoas que não entendem 
 patavina de computação te achando medíocre por ter feito 
 uma calculadora! Perdoa senhor eles não entendem Risos…</b>
+
+<h1>Exemplo de uma das funções disponível no código fonte da nossa calculadora:</h1>
+
+<script>
+var raiz_quadrada = document.getElementById('raiz_quadrada').onclick = function(){
+var visor = document.getElementById('visor').value;
+ if( visor == ''){
+ visor= '';
+ } else {
+ calculando(" = Raiz "+Math.sqrt(document.getElementById('visor').value));
+ }
+}
+
+</script>
