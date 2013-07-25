@@ -26,7 +26,7 @@ uma calculadora! Perdoa senhor eles não entendem Risos…</b>
 
 <h1>Exemplo de uma das funções disponível no código fonte da nossa calculadora:</h1>
 
-<script>
+
 var raiz_quadrada = document.getElementById('raiz_quadrada').onclick = function(){
 var visor = document.getElementById('visor').value;
  if( visor == ''){
@@ -36,4 +36,4 @@ var visor = document.getElementById('visor').value;
  }
 }
 
-</script>
+
