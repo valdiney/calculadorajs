@@ -3,7 +3,7 @@ calculadorajs
 
 Sua primeira calculadora 
 
-<h2><href="http://codepen.io/valdiney/pen/cIxCA" target="_blank">Veja funcionando no CodePen</h2>
+<h2><a href="http://codepen.io/valdiney/pen/cIxCA" target="_blank">Veja funcionando no CodePen</a></h2>
 
 Cá entre nós… Todos os estudantes de computação já sonharam ou ainda sonham em fazer a sua própria calculadora! Não no sentido de seus feitos serem famosos, mas no sentido de poder ver de modo funcional um monte de códigos escritos por você gerarem um programa razoavelmente utilizável. Realmente é grande a quantidade de estudantes que já fizeram e que ainda vão fazer suas próprias calculadoras, pois este feito ajuda a entender o conceito de lógica de programação onde o computador se mantém recebendo, computando e apresentando informações.
 
